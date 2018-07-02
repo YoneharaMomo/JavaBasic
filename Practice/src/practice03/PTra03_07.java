@@ -32,5 +32,13 @@ public class PTra03_07 {
 		 */
 
 
+		if (num <=5 && num >=1) {
+			System.out.println(num);
+
+		}else {
+		System.out.println("選択したのは、１〜５以外です");
+
+		}
+
 	}
 }

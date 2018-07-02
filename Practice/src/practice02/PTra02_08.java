@@ -1,3 +1,4 @@
+
 package practice02;
 /*
  * PTra02_08.java
@@ -12,7 +13,13 @@ public class PTra02_08 {
 		int calc = 5;
 		String name = "鈴木";
 
+		int x = num + calc;
+		System.out.println(x);
+
+		System.out.println( name + "さんは、"+ x + "になりました");
+
 		// ★ 変数num, calc, nameを連結して「鈴木さんは、25歳になりました」を出力してください
+
 
 
 	}
